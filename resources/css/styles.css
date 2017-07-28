@@ -7,7 +7,7 @@ body{
 }
 header{
   position: fixed;
-  top: 0;
+  top: 0;        /*Top,Left,Right settings to stop gap in the top of the browser*/
   left: 0;
   right: 0;
   z-index: 1;
